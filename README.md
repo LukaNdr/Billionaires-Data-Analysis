@@ -33,7 +33,7 @@ df.fillna(df['age'].mean(), inplace=True)
 
 We start by analyzing the age distribution of billionaires:
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/a8575b3f-280b-4976-a17b-eace17e8a85e)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/a9c57e76-408c-4fc4-b90c-162662a84b21)
 
 In this chart, we explore the distribution of billionaires' ages. The trendline represents the overall age trend among billionaires. We use linear regression to fit the trendline.
 
