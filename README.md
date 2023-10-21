@@ -33,7 +33,7 @@ df.fillna(df['age'].mean(), inplace=True)
 
 We start by analyzing the age distribution of billionaires:
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/a9c57e76-408c-4fc4-b90c-162662a84b21)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/7f3a54e3-9291-49dc-9213-01b45afa1905)
 
 In this chart, we explore the distribution of billionaires' ages. The trendline represents the overall age trend among billionaires. We use linear regression to fit the trendline.
 
@@ -41,7 +41,7 @@ In this chart, we explore the distribution of billionaires' ages. The trendline 
 
 We analyze billionaire wealth by industry:
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/6c118541-ba95-4ee3-85bd-1d730d276159)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/19165d97-8919-4adb-84f9-fc8fb6078842)
 
 This bar chart shows the mean wealth of different industries, with error bars indicating the standard deviation of wealth.
 
@@ -49,7 +49,7 @@ This bar chart shows the mean wealth of different industries, with error bars in
 
 We analyze billionaire wealth by country:
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/80a31124-0c65-4e08-87f8-91d1108a801f)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/2e9edd2d-8df5-4d1d-8fe2-cec0a211a28e)
 
 This bar chart displays the mean wealth of the top 20 countries with the highest mean wealth, along with error bars indicating the standard deviation.
 
@@ -59,13 +59,13 @@ We visualize correlations between different attributes:
 
 ### Correlation Heatmap: Birth Year, Month, and Day
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/4b03e3f5-ece7-4a69-b5b7-1420c8741f4e)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/1d962d56-2063-4065-b18a-7816d29c76dc)
 
 This heatmap shows correlations between birth year, month, and day of billionaires.
 
 ### Correlation Heatmap: Economic Indicators vs. Final Worth
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/a0e7d865-e0f0-4916-8744-2f777e8ff216)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/b2a3ca2d-8859-4759-aeab-4466003a44d0)
 
 This heatmap illustrates correlations between various economic indicators and the final worth of billionaires.
 
@@ -73,11 +73,11 @@ This heatmap illustrates correlations between various economic indicators and th
 
 We analyze gender and status distributions of billionaires:
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/443c6a5a-492e-4c9f-81f2-5d8cd1a87327)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/984cae86-b350-49b0-97a3-6fffb0c9f605)
 
 This pie chart shows the gender distribution of billionaires.
 
-![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/2a6f716b-d494-4958-86c0-0507d3f64446)
+![image](https://github.com/LukaNdr/Billionaires-Data-Analysis/assets/147658141/c559f17e-aa16-4b16-8b9a-41fc7739a099)
 
 This pie chart displays the distribution of billionaire status, distinguishing self-made from non-self-made billionaires.
 
